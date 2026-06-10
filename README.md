@@ -1,1 +1,1 @@
-# MySQL---Querying-Data
+# MySQL-Querying-Data
